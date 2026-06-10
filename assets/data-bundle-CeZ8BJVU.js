@@ -1,4 +1,4 @@
-const e=[{id:"cinema_002",name:"SFC上海影城",cinemaName:"SFC上海影城",district:"长宁",address:"新华路160号",metroStation:"交通大学站",metroLines:"10号线；11号线",recommendedExit:"5号口",walkMinutes:15,walkTime:"步行约15分钟",walkCycleTime:"步行约15分钟",transferLevel:"medium",transferDifficulty:"一般",fanNote:"暂无信息",reminders:["15分钟左右，淮海西路右转，番禹路直走","1号线到徐家汇，4号口出来换946路公交，番禹路下车过个马路就到sfc"],tags:[],metroLineTags:[{label:"10号线",lineNum:"10",color:"#A2639B"},{label:"11号线",lineNum:"11",color:"#871C1C"}],halls:[{hall:"1号厅杜比剧场",pitfalls:["1. 前八排和两边特别偏的视野很死亡","2. 个人建议6-8排中间位，9排前是过道，电影节赶场迟到的人多，坐过道后几排会疯掉","3. 9排/10排前后最佳，15排往后会离屏幕有点远","4. 真的很挡，前面就算只有半个头也会挡住字幕的程度","5. 冷气和空气其实都还好 主要是那么大的厅好像厕所会不会太少了 结束之后女厕所排排长队。可考虑：厕所有两个","6. 字幕比较小的话后几排看字幕体验不佳","7. 第八排中间位置蛮不错的，有映后的话看得也很清楚","8. 前八排两边视角体验很差，先看票位置，影厅分成几个区域，先看看位置有没有过道！免得辛苦穿越人群后发现前面有过道"],praises:[]},{hall:"2号厅Onyx",pitfalls:["1. 2号厅设计反人类，连排直角低靠背硬质座椅+空心铁架子过人如地震阶梯，两侧扶手甚至连放水杯的位置都无","2. 椅子小所以大部分位置能看，但身体一动椅子就响；屏幕面积110平方，体验不错"],praises:[]},{hall:"3号厅杜比全景声",pitfalls:["1. 【候场提示】影厅外能坐的位置太少了，等候开场的时候只能站着","2. 位子不是很舒服"],praises:[]},{hall:"9号厅REALD CINEMA",pitfalls:["1. 借充电宝太贵了，1个小时15分钟10元，如有需要可自备充电宝","2. 通风不佳 味道不佳"],praises:["1. 椅子很宽敞很舒服"]}],walkingRoute:null,busRoute:null,waitingRecommendation:null,trafficTips:"15分钟左右，淮海西路右转，番禹路直走；1号线到徐家汇，4号口出来换946路公交，番禹路下车过个马路就到sfc",toiletTips:"女厕只有四个坑位 估计要排死 不过终于有网了！！！！！！！！！！！！！（补充：其实只有三个，有一个是杂物间）；女厕所非常小，排长队时可以视情况借用男厕所😀；去隔壁银星皇冠假日酒店1楼~；1楼女厕有8个坑，5楼女厕只有3个坑（看完电影想着上面厕所大概人少，结果还是要排队）；女厕排队太长；工作人员会帮忙开辟男厕给排队女性用，我第二次在这一层用男厕了；注意看清厕所标志，别走错男女；赶地铁的也可以考虑在地铁站解决，交通大学站5号口下去正对就是；2楼单号口上台阶右转也有厕所，虽然坑位不是很多，但也算个分流吧大概；可以上四楼五楼去上厕所，虽然只有两个但是人比较少；杜比影院厅最高一排的右手边（面朝银幕时的右手）出口出来有个厕所，电影散场前几乎没人用（注意这个出口是单向门，可以让同伴帮忙开门）（不在杜比影院厅的情况下也可以从影城户外的楼梯过去）；去隔壁酒店上，一楼就有，还算是蛮干净的，还能偶遇；一楼厕所单间里常规是不放卷纸的，记得自备～",cinemaGuide:`· 1号线到徐家汇，4号口出来换946路公交，番禹路下车过个马路就到sfc
+const e=[{id:"cinema_002",name:"SFC上海影城",cinemaName:"SFC上海影城",district:"长宁",address:"新华路160号",metroStation:"交通大学站",metroLines:"10号线；11号线",recommendedExit:"5号口",walkMinutes:15,walkTime:"步行约15分钟",walkCycleTime:"步行约15分钟",transferLevel:"medium",transferDifficulty:"一般",fanNote:"暂无信息",reminders:["15分钟左右，淮海西路右转，番禹路直走","1号线到徐家汇，4号口出来换946路公交，番禹路下车过个马路就到sfc"],tags:[],metroLineTags:[{label:"10号线",lineNum:"10",color:"#A2639B"},{label:"11号线",lineNum:"11",color:"#871C1C"}],halls:[{hall:"1号厅杜比剧场",pitfalls:["1. 前八排和两边特别偏的视野很死亡","2. 个人建议6-8排中间位，9排前是过道，电影节赶场迟到的人多，坐过道后几排会疯掉","3. 9排/10排前后最佳，15排往后会离屏幕有点远","4. 真的很挡，前面就算只有半个头也会挡住字幕的程度","5. 冷气和空气其实都还好 主要是那么大的厅好像厕所会不会太少了 结束之后女厕所排排长队。可考虑：厕所有两个","6. 字幕比较小的话后几排看字幕体验不佳","7. 第八排中间位置蛮不错的，有映后的话看得也很清楚","8. 前八排两边视角体验很差，先看票位置，影厅分成几个区域，先看看位置有没有过道！免得辛苦穿越人群后发现前面有过道"],praises:[]},{hall:"2号厅Onyx",pitfalls:["1. 2号厅设计反人类，连排直角低靠背硬质座椅+空心铁架子过人如地震阶梯，两侧扶手甚至连放水杯的位置都无","2. 椅子小所以大部分位置能看，但身体一动椅子就响；屏幕面积110平方，体验不错"],praises:[]},{hall:"3号厅杜比全景声",pitfalls:["1. 【候场提示】影厅外能坐的位置太少了，等候开场的时候只能站着","2. 位子不是很舒服"],praises:[]},{hall:"9号厅REALD CINEMA",pitfalls:["1. 借充电宝太贵了，1个小时15分钟10元，如有需要可自备充电宝","2. 通风不佳 味道不佳"],praises:["1. 椅子很宽敞很舒服"]}],walkingRoute:null,busRoute:null,waitingRecommendation:null,trafficTips:"15分钟左右，淮海西路右转，番禹路直走；1号线到徐家汇，4号口出来换946路公交，番禹路下车过个马路就到sfc",toiletTips:"女厕只有四个坑位 估计要排死 不过终于有网了！！！！！！！！！！！！！（补充：其实只有三个，有一个是杂物间）；女厕所非常小，排长队时可以视情况借用男厕所；去隔壁银星皇冠假日酒店1楼~；1楼女厕有8个坑，5楼女厕只有3个坑（看完电影想着上面厕所大概人少，结果还是要排队）；女厕排队太长；工作人员会帮忙开辟男厕给排队女性用，我第二次在这一层用男厕了；注意看清厕所标志，别走错男女；赶地铁的也可以考虑在地铁站解决，交通大学站5号口下去正对就是；2楼单号口上台阶右转也有厕所，虽然坑位不是很多，但也算个分流吧大概；可以上四楼五楼去上厕所，虽然只有两个但是人比较少；杜比影院厅最高一排的右手边（面朝银幕时的右手）出口出来有个厕所，电影散场前几乎没人用（注意这个出口是单向门，可以让同伴帮忙开门）（不在杜比影院厅的情况下也可以从影城户外的楼梯过去）；去隔壁酒店上，一楼就有，还算是蛮干净的，还能偶遇；一楼厕所单间里常规是不放卷纸的，记得自备～",cinemaGuide:`· 1号线到徐家汇，4号口出来换946路公交，番禹路下车过个马路就到sfc
 · 地铁站步行约7-10分钟
 · 15分钟左右，淮海西路右转，番禹路直走`,ticketMachineTips:`· 进门左转 6台
 · 进门左侧各种柱子的后面（不太起眼）
@@ -149,8 +149,8 @@ const e=[{id:"cinema_002",name:"SFC上海影城",cinemaName:"SFC上海影城",di
 
 14. 座位数
 · 109`,ticketCheckIntensity:`· 不暴力
-· 小心且耐心`,powerBankTips:`· 🈚️建议去对面棒约翰借（2元/h）影城门口摊位处比较贵（5元/h）
-· 对面的淡水老街🈶️美团充电宝
+· 小心且耐心`,powerBankTips:`· 建议去对面棒约翰借（2元/h）影城门口摊位处比较贵（5元/h）
+· 对面的淡水老街美团充电宝
 · 影院对面的店铺均有充电宝`,serviceAttitude:"· 服务态度很好！问的问题都耐心回答并解决了",workSpotTips:`· 麦门&wagas&星巴克
 · 一楼就有阿拉比卡%，影院对面一排商铺，影院门口也有户外椅无座
 · 吉程面馆，有插座`,lateTips:`【迟到观众需看】
@@ -250,7 +250,7 @@ const e=[{id:"cinema_002",name:"SFC上海影城",cinemaName:"SFC上海影城",di
 · 4号厅的音响挺好的
 4. 字幕机字幕格式（字体颜色及大小，后排看是否太小）
 · 黄色，个人觉得还可以，在二楼看字也不小，但是剧院厅屏幕有点小
-· 👈🏻同感
+· 同感
 5. 场灯情况（开场前影厅内亮度，放映后是否提前开灯）
 
 6. 第一排离屏幕间距(观看是否断头，具体几排之前都会断头？)
@@ -294,7 +294,7 @@ const e=[{id:"cinema_002",name:"SFC上海影城",cinemaName:"SFC上海影城",di
 · 亲测一排不断头，稍稍后仰就可以(接近三小时的时长都没问题)
 7. 坡度(前排高个是否挡字幕)
 · 挡！一二楼都很挡，夹缝中看字幕
-· 二楼后排不挡（只要这个高个不前倾🙂）
+· 二楼后排不挡（只要这个高个不前倾）
 8. 第几排必挡字幕？(2层栏杆是否挡字幕)
 · 2楼字幕倒是不挡，但是可以看看梅溪湖小程序，二楼前面铁窗泪，栏杆直接横在荧幕中间
 · 二楼1排3座字幕和屏幕都挡 绝了 横栏杆档屏幕 竖栏杆挡字幕机
@@ -620,7 +620,7 @@ const e=[{id:"cinema_002",name:"SFC上海影城",cinemaName:"SFC上海影城",di
 · 取票和观影可能会在不同楼层，一般物料会在取票前台发放
 · 地铁1、2、8号线-人民广场站-14号口，影院电梯非常挤且慢，强烈建议走楼梯上楼
 · 可以坐商场电梯到5楼，往肉肉大米那边走，直接到杜比全景声厅。如果你从KFC那边进，就要从一个围巾店里进去坐直梯，就两个，容易排队。
-· 笑死根本找不到第一次来的朋友还是建议从肯德基坐直梯不然容易走错`,ticketMachineTips:`· 每一层都有取票机，3楼硬纸板机器已坏，待修中（和平强烈要求懂机器维修的影迷来试试 ，有丰厚回报 😳）
+· 笑死根本找不到第一次来的朋友还是建议从肯德基坐直梯不然容易走错`,ticketMachineTips:`· 每一层都有取票机，3楼硬纸板机器已坏，待修中（和平强烈要求懂机器维修的影迷来试试 ，有丰厚回报 ）
 · 笑死 找影迷来修可还行`,ticketCheckReminder:"· 没实操，但是工作人员主动有告知可以留票，可以咨询一下",parkingTips:`· 莱福士可停车，凭电影票有优惠，20块1小时
 · 停车找小黄鱼，3小时15`,viewingAtmosphere:"· 正常 没有闪光灯找座位，也没打电话啥的",hallSummary:`【杜比全景声厅】
 1. 银幕大小
@@ -963,11 +963,11 @@ const e=[{id:"cinema_002",name:"SFC上海影城",cinemaName:"SFC上海影城",di
 进场要弯腰，闪光灯朝向地面（别开闪光灯，最好用手机屏幕照亮`,warmTips:`【温馨提示】
 1，记得带把雨伞，避雨遮阳两不误。
 2，记得带件外套，防止空调过冷。
-3，记得多带套衣服，防止洗后干得慢。`,aliases:[],nameEn:null,source:"28th SIFF 影院地铁指南",sourceUrl:"https://docs.qq.com/sheet/DVEFZWmRVSE1hVVF5",sourceUrlText:"https://docs.qq.com/sheet/DVEFZWmRVSE1hVVF5",sourceDocName:"影院地铁指北",updateTime:"2026-06-02"},{id:"cinema_019",name:"上海科技馆巨幕影院",cinemaName:"上海科技馆巨幕影院",district:"浦东",address:"世纪大道2000号B1",metroStation:"上海科技馆站",metroLines:"2号线",recommendedExit:"8号口",walkMinutes:"暂无信息",walkTime:"暂无信息",walkCycleTime:"暂无信息",transferLevel:"easy",transferDifficulty:"轻松",fanNote:"暂无信息",reminders:["➡️ 往8号口方向走（但不要上楼）","➡️ 从8号口边上的【S.C.Plaza】通道走","➡️ 经过【肯德基】 继续直走，一直直走","➡️ 走到底【江南小炒】门口一排门","➡️ 出门就是【上海科技馆】直走前往6号门 需要安检"],tags:[],metroLineTags:[{label:"2号线",lineNum:"2",color:"#009B3A"}],halls:[],walkingRoute:null,busRoute:null,waitingRecommendation:null,trafficTips:"➡️ 往8号口方向走（但不要上楼）；➡️ 从8号口边上的【S.C.Plaza】通道走；➡️ 经过【肯德基】 继续直走，一直直走；➡️ 走到底【江南小炒】门口一排门；➡️ 出门就是【上海科技馆】直走前往6号门 需要安检",toiletTips:null,cinemaGuide:`· ➡️ 往8号口方向走（但不要上楼）
-· ➡️ 从8号口边上的【S.C.Plaza】通道走
-· ➡️ 经过【肯德基】 继续直走，一直直走
-· ➡️ 走到底【江南小炒】门口一排门
-· ➡️ 出门就是【上海科技馆】直走前往6号门 需要安检`,ticketMachineTips:null,ticketCheckReminder:null,parkingTips:null,viewingAtmosphere:null,hallSummary:`【影厅待确认】
+3，记得多带套衣服，防止洗后干得慢。`,aliases:[],nameEn:null,source:"28th SIFF 影院地铁指南",sourceUrl:"https://docs.qq.com/sheet/DVEFZWmRVSE1hVVF5",sourceUrlText:"https://docs.qq.com/sheet/DVEFZWmRVSE1hVVF5",sourceDocName:"影院地铁指北",updateTime:"2026-06-02"},{id:"cinema_019",name:"上海科技馆巨幕影院",cinemaName:"上海科技馆巨幕影院",district:"浦东",address:"世纪大道2000号B1",metroStation:"上海科技馆站",metroLines:"2号线",recommendedExit:"8号口",walkMinutes:"暂无信息",walkTime:"暂无信息",walkCycleTime:"暂无信息",transferLevel:"easy",transferDifficulty:"轻松",fanNote:"暂无信息",reminders:["往8号口方向走（但不要上楼）","从8号口边上的【S.C.Plaza】通道走","经过【肯德基】 继续直走，一直直走","走到底【江南小炒】门口一排门","出门就是【上海科技馆】直走前往6号门 需要安检"],tags:[],metroLineTags:[{label:"2号线",lineNum:"2",color:"#009B3A"}],halls:[],walkingRoute:null,busRoute:null,waitingRecommendation:null,trafficTips:"往8号口方向走（但不要上楼）； 从8号口边上的【S.C.Plaza】通道走； 经过【肯德基】 继续直走，一直直走； 走到底【江南小炒】门口一排门； 出门就是【上海科技馆】直走前往6号门 需要安检",toiletTips:null,cinemaGuide:`· 往8号口方向走（但不要上楼）
+· 从8号口边上的【S.C.Plaza】通道走
+· 经过【肯德基】 继续直走，一直直走
+· 走到底【江南小炒】门口一排门
+· 出门就是【上海科技馆】直走前往6号门 需要安检`,ticketMachineTips:null,ticketCheckReminder:null,parkingTips:null,viewingAtmosphere:null,hallSummary:`【影厅待确认】
 1. 银幕大小
 
 2. 银幕亮度
@@ -1432,10 +1432,10 @@ const e=[{id:"cinema_002",name:"SFC上海影城",cinemaName:"SFC上海影城",di
 14. 座位数
 · 631`,ticketCheckIntensity:`· 不暴力
 · 挺好的`,powerBankTips:null,serviceAttitude:`· 服务态度好
-· 热情友善，主动指引厕所、取票机等位置`,workSpotTips:`· 太惨了，看电影还加班 😂
+· 热情友善，主动指引厕所、取票机等位置`,workSpotTips:`· 太惨了，看电影还加班 
 · 太好了，看电影还可以加班
 · 隔壁有家麦当劳！
-➕：我今天刚刚去取票来着，麦当劳还有长椅子，甚至能睡觉
+：我今天刚刚去取票来着，麦当劳还有长椅子，甚至能睡觉
 · 太伟大了，看电影还加班
 · 麦当劳`,lateTips:`【迟到观众需看】
 进场要弯腰，闪光灯朝向地面（别开闪光灯，最好用手机屏幕照亮`,warmTips:`【温馨提示】
@@ -1599,7 +1599,7 @@ one itc节假日任意消费免费停车
 13. 最佳观影座位（精确到几排几号->几排几号）
 
 14. 座位数
-· 193`,ticketCheckIntensity:"· 比较温柔",powerBankTips:null,serviceAttitude:"· 专业，态度也很好",workSpotTips:"· 环贸里面太多了😂",lateTips:`【迟到观众需看】
+· 193`,ticketCheckIntensity:"· 比较温柔",powerBankTips:null,serviceAttitude:"· 专业，态度也很好",workSpotTips:"· 环贸里面太多了",lateTips:`【迟到观众需看】
 进场要弯腰，闪光灯朝向地面（别开闪光灯，最好用手机屏幕照亮`,warmTips:`【温馨提示】
 1，记得带把雨伞，避雨遮阳两不误。
 2，记得带件外套，防止空调过冷。
@@ -1713,7 +1713,7 @@ one itc节假日任意消费免费停车
 6. 第一排离屏幕间距(观看是否断头，具体几排之前都会断头？)
 · 看图上的距离应该不断头
 · 第一排到荧幕之间有乐池和舞台，不会断头
-· 不断头但是因为椅背高度无法依靠头颈所以还是很累🥲
+· 不断头但是因为椅背高度无法依靠头颈所以还是很累
 7. 坡度(前排高个是否挡字幕)
 · 不挡
 · 8排21座（一楼前排中央区域最边上的座位）有点挡，不过只挡最边上两个字，挪挪头就行
@@ -1743,7 +1743,7 @@ one itc节假日任意消费免费停车
 · 新宛平剧院总建筑面积2.9万平方米，地上高度5层，地下3层，包括一个996座的大剧场，一个262座的小剧场
 · 是因為數字很不吉利的關係嗎？二樓四五排實際只用了兩排
 · 实际座位数：751`,ticketCheckIntensity:"· 没有暴力撕票并且会有摊位卖纪念品还有纪念票，但是我去的时候已经卖完了。",powerBankTips:"· 一楼服务台处",serviceAttitude:`· 服务态度好
-· 超好❤
+· 超好
 · 一楼设有寄存处`,workSpotTips:"· 一楼和二楼均有候场休息区",lateTips:`【迟到观众需看】
 进场要弯腰，闪光灯朝向地面（别开闪光灯，最好用手机屏幕照亮`,warmTips:`【温馨提示】
 1，记得带把雨伞，避雨遮阳两不误。
@@ -1857,7 +1857,7 @@ one itc节假日任意消费免费停车
 14. 座位数
 · 492`,ticketCheckIntensity:"· 很温柔",powerBankTips:`· 一楼有充电宝，在靠近银行那个走道上，很显眼的
 · 一楼电梯旁有充电宝`,serviceAttitude:"· 服务态度挺好的",workSpotTips:`· 有个肯德基，有个必胜客
-· 👈KFC，必胜客都关了`,lateTips:`【迟到观众需看】
+· KFC，必胜客都关了`,lateTips:`【迟到观众需看】
 进场要弯腰，闪光灯朝向地面（别开闪光灯，最好用手机屏幕照亮`,warmTips:`【温馨提示】
 1，记得带把雨伞，避雨遮阳两不误。
 2，记得带件外套，防止空调过冷。
